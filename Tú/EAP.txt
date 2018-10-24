@@ -1,5 +1,0 @@
-Model-:Client-Server
-ASP.net-WCF(RestFull API), WEB API
--Validation:Data annotation
--Database first or code first
--process:CRUD
